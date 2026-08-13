@@ -692,3 +692,7 @@ The Weather Monitoring Station demonstrates an IoT-enabled embedded system capab
 The ESP32 processes sensor data and presents it locally through an OLED and Serial Monitor while simultaneously transmitting the measurements to Blynk for remote monitoring.
 
 The project provides a foundation for a larger environmental monitoring system with data logging, alerts, weather prediction and additional sensors.
+
+
+<img width="1065" height="797" alt="image" src="https://github.com/user-attachments/assets/093c625c-c060-489c-8815-389ab1f13d22" />
+
